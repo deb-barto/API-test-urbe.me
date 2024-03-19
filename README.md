@@ -6,7 +6,13 @@ A Finance Management API é uma solução back-end desenvolvida para gerenciar t
 
 - **Django REST Framework**: Um poderoso e flexível framework para construir APIs web.
 - **SQLite**: Banco de dados utilizado para desenvolvimento e testes.
+- **AWS-EC2**: Aws para deploy da API
 
+## API ONLINE
+- Caso queira testar API: http://3.148.107.48:8000/
+- Usuário:Admin
+- Senha: admin123
+  
 ### Instalação
 
 1. Instale as dependências:
